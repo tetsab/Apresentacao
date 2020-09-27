@@ -1,6 +1,7 @@
 ## PROJETO FINAL
 
-## A página será composta de: ==============================
+## A página será composta de: 
+==============================
 - Imagem de fundo
 - Minha foto
 - Meu nome
@@ -8,7 +9,8 @@
 - Meus links para redes sociais
 - Minha bio (opcional)
 
-## Descrição da tarefa: ==============================
+## Descrição da tarefa: 
+==============================
 - Escolher uma das opções de template (ou criar sua própria versão se preferir)
 - Escolher uma imagem de fundo
 - Escolher as fontes que irá utilizar no projeto
